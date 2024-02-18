@@ -1,0 +1,2 @@
+module QwiicConnectors:
+    signal gnd
